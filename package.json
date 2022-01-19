@@ -1,10 +1,11 @@
 {
-    "name": "ThiThuHaNguyenGirishanthSivanesachselvanLab3",
+    "name": "Simple TensorFlow Prj",
     "version": "0.0.0",
-    "description": "COMP308 Lab 4 - Iris Example",
+    "description": "COMP308 Lab 4",
     "main": "server.js",
     "author": {
-        "name": ""
+        "name": "Giri S"
+        "name": "Thi Thu Ha Nguyen"
     },
     "dependencies": {
         "@tensorflow/tfjs": "^1.7.0",
