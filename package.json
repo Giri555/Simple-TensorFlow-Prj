@@ -4,7 +4,7 @@
     "description": "COMP308 Lab 4",
     "main": "server.js",
     "author": {
-        "name": "Giri S"
+        "name": "Giri S",
         "name": "Thi Thu Ha Nguyen"
     },
     "dependencies": {
