@@ -1,1 +1,1 @@
-# COMP308 Lab Assignment 4
+# Simple Tensorflow Prj
